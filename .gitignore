@@ -83,3 +83,9 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+/.idea/.name
+/.idea/compiler.xml
+/.idea/jarRepositories.xml
+/.idea/markdown-navigator-enh.xml
+/.idea/markdown-navigator.xml
+/.idea/misc.xml
